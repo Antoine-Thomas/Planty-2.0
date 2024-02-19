@@ -1,0 +1,9 @@
+Log created: 2024-01-27 16:01:07
+Type: export
+[2024-01-27 16:01:08][notice]Start export posts.
+[2024-01-27 16:01:08][notice]server info fcgi:On max execution time: 180 wp version:6.4.2 php version:8.3.0 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:61,67 Mo memory_get_peak_usage:63,37 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-01-27 16:01:08][notice]Prepare to export post savedemestroispagesplanty_wpvivid-65b51ab36b1b8_2024-01-27-15-01
+[2024-01-27 16:01:08][notice]Finished to export post savedemestroispagesplanty_wpvivid-65b51ab36b1b8_2024-01-27-15-01
+[2024-01-27 16:01:08][notice]Prepare to zip file savedemestroispagesplanty_wpvivid-65b51ab36b1b8_2024-01-27-15-01
+[2024-01-27 16:01:08][notice]Finished to zip file savedemestroispagesplanty_wpvivid-65b51ab36b1b8_2024-01-27-15-01
+[2024-01-27 16:01:08][notice]Finished to export post

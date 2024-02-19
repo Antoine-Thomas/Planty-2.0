@@ -1,0 +1,9 @@
+2024-02-11T20:15:23+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\Users\searc\Local Sites\planty\app\public/wp-content/themes/Astra/inc/core/class-astra-theme-options.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\searc\Local Sites\planty\app\public\wp-content\themes\astra\functions.php:32
+Stack trace:
+#0 C:\Users\searc\Local Sites\planty\app\public\wp-settings.php(611): include()
+#1 C:\Users\searc\Local Sites\planty\app\public\wp-config.php(103): require_once('C:\\Users\\searc\\...')
+#2 C:\Users\searc\Local Sites\planty\app\public\wp-load.php(50): require_once('C:\\Users\\searc\\...')
+#3 C:\Users\searc\Local Sites\planty\app\public\wp-cron.php(46): require_once('C:\\Users\\searc\\...')
+#4 {main}
+  thrown dans C:\Users\searc\Local Sites\planty\app\public\wp-content\themes\astra\functions.php à la ligne 32
+

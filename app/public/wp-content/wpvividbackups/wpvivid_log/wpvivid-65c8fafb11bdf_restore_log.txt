@@ -1,0 +1,48 @@
+[2024-02-11 17:51:07][notice]Start restoring themes.
+[2024-02-11 17:51:07][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_all.zip
+[2024-02-11 17:51:07][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_all.zip succeeded.
+[2024-02-11 17:51:07][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_themes.zip index:0
+[2024-02-11 17:51:12][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_themes.zip index:0 finished.
+[2024-02-11 17:51:12][notice]End restore themes.
+[2024-02-11 17:51:15][notice]Start restoring themes.
+[2024-02-11 17:51:15][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_themes.zip index:1000
+[2024-02-11 17:51:15][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_themes.zip index:1000 finished.
+[2024-02-11 17:51:15][notice]End restore themes.
+[2024-02-11 17:51:18][notice]Start restoring plugin.
+[2024-02-11 17:51:18][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_all.zip
+[2024-02-11 17:51:18][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_all.zip succeeded.
+[2024-02-11 17:51:18][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:0
+[2024-02-11 17:51:19][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:0 finished.
+[2024-02-11 17:51:19][notice]End restore plugin.
+[2024-02-11 17:51:21][notice]Start restoring plugin.
+[2024-02-11 17:51:21][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:1000
+[2024-02-11 17:51:22][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:1000 finished.
+[2024-02-11 17:51:22][notice]End restore plugin.
+[2024-02-11 17:51:25][notice]Start restoring plugin.
+[2024-02-11 17:51:25][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:2000
+[2024-02-11 17:51:27][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:2000 finished.
+[2024-02-11 17:51:27][notice]End restore plugin.
+[2024-02-11 17:51:30][notice]Start restoring plugin.
+[2024-02-11 17:51:30][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:3000
+[2024-02-11 17:51:31][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:3000 finished.
+[2024-02-11 17:51:31][notice]End restore plugin.
+[2024-02-11 17:51:34][notice]Start restoring plugin.
+[2024-02-11 17:51:34][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:4000
+[2024-02-11 17:51:35][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:4000 finished.
+[2024-02-11 17:51:35][notice]End restore plugin.
+[2024-02-11 17:51:37][notice]Start restoring plugin.
+[2024-02-11 17:51:37][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:5000
+[2024-02-11 17:51:38][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:5000 finished.
+[2024-02-11 17:51:38][notice]End restore plugin.
+[2024-02-11 17:51:41][notice]Start restoring plugin.
+[2024-02-11 17:51:41][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:6000
+[2024-02-11 17:51:43][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:6000 finished.
+[2024-02-11 17:51:43][notice]End restore plugin.
+[2024-02-11 17:51:45][notice]Start restoring plugin.
+[2024-02-11 17:51:45][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:7000
+[2024-02-11 17:51:46][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:7000 finished.
+[2024-02-11 17:51:46][notice]End restore plugin.
+[2024-02-11 17:51:49][notice]Start restoring plugin.
+[2024-02-11 17:51:49][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:8000
+[2024-02-11 17:51:50][notice]Extracting file:localhost_wordpress_wpvivid-65c7fd8718a15_2024-02-10-23-49_backup_plugin.zip index:8000 finished.
+[2024-02-11 17:51:50][notice]End restore plugin.

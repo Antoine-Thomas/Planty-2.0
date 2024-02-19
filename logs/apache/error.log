@@ -1,0 +1,74 @@
+[Sat Jan 27 15:00:50.557268 2024] [mpm_winnt:notice] [pid 17612:tid 836] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Jan 27 15:00:50.559268 2024] [mpm_winnt:notice] [pid 17612:tid 836] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Jan 27 15:00:50.559268 2024] [core:notice] [pid 17612:tid 836] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Sat Jan 27 15:00:50.566268 2024] [mpm_winnt:notice] [pid 17612:tid 836] AH00418: Parent: Created child process 15148
+[Sat Jan 27 15:00:51.604265 2024] [mpm_winnt:notice] [pid 15148:tid 4] AH00354: Child: Starting 64 worker threads.
+[Sat Jan 27 19:32:02.890104 2024] [core:warn] [pid 16792:tid 760] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 27 19:32:02.893101 2024] [mpm_winnt:notice] [pid 16792:tid 760] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Jan 27 19:32:02.893101 2024] [mpm_winnt:notice] [pid 16792:tid 760] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Jan 27 19:32:02.893101 2024] [core:notice] [pid 16792:tid 760] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Sat Jan 27 19:32:02.901103 2024] [mpm_winnt:notice] [pid 16792:tid 760] AH00418: Parent: Created child process 15316
+[Sat Jan 27 19:32:04.068106 2024] [mpm_winnt:notice] [pid 15316:tid 268] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 10 01:23:27.769404 2024] [core:warn] [pid 2308:tid 504] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 10 01:23:27.773913 2024] [mpm_winnt:notice] [pid 2308:tid 504] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Feb 10 01:23:27.773913 2024] [mpm_winnt:notice] [pid 2308:tid 504] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Feb 10 01:23:27.773913 2024] [core:notice] [pid 2308:tid 504] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Sat Feb 10 01:23:27.783431 2024] [mpm_winnt:notice] [pid 2308:tid 504] AH00418: Parent: Created child process 2364
+[Sat Feb 10 01:23:28.829729 2024] [mpm_winnt:notice] [pid 2364:tid 844] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 11 17:26:08.900178 2024] [core:warn] [pid 19192:tid 824] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 11 17:26:08.904175 2024] [mpm_winnt:notice] [pid 19192:tid 824] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sun Feb 11 17:26:08.904175 2024] [mpm_winnt:notice] [pid 19192:tid 824] AH00456: Server built: Apr 21 2020 13:46:54
+[Sun Feb 11 17:26:08.904175 2024] [core:notice] [pid 19192:tid 824] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Sun Feb 11 17:26:08.913180 2024] [mpm_winnt:notice] [pid 19192:tid 824] AH00418: Parent: Created child process 6848
+[Sun Feb 11 17:26:09.991176 2024] [mpm_winnt:notice] [pid 6848:tid 800] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 11 19:00:20.295380 2024] [core:warn] [pid 12584:tid 756] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 11 19:00:20.299384 2024] [mpm_winnt:notice] [pid 12584:tid 756] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sun Feb 11 19:00:20.299384 2024] [mpm_winnt:notice] [pid 12584:tid 756] AH00456: Server built: Apr 21 2020 13:46:54
+[Sun Feb 11 19:00:20.299384 2024] [core:notice] [pid 12584:tid 756] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Sun Feb 11 19:00:20.307383 2024] [mpm_winnt:notice] [pid 12584:tid 756] AH00418: Parent: Created child process 20024
+[Sun Feb 11 19:00:21.394381 2024] [mpm_winnt:notice] [pid 20024:tid 796] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 12 14:19:14.865877 2024] [core:warn] [pid 7836:tid 732] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 12 14:19:14.870879 2024] [mpm_winnt:notice] [pid 7836:tid 732] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Feb 12 14:19:14.870879 2024] [mpm_winnt:notice] [pid 7836:tid 732] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Feb 12 14:19:14.870879 2024] [core:notice] [pid 7836:tid 732] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Mon Feb 12 14:19:14.878884 2024] [mpm_winnt:notice] [pid 7836:tid 732] AH00418: Parent: Created child process 13976
+[Mon Feb 12 14:19:15.985880 2024] [mpm_winnt:notice] [pid 13976:tid 832] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 13 02:04:50.428756 2024] [core:warn] [pid 7008:tid 788] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 13 02:04:50.431750 2024] [mpm_winnt:notice] [pid 7008:tid 788] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Feb 13 02:04:50.432752 2024] [mpm_winnt:notice] [pid 7008:tid 788] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Feb 13 02:04:50.432752 2024] [core:notice] [pid 7008:tid 788] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Tue Feb 13 02:04:50.440755 2024] [mpm_winnt:notice] [pid 7008:tid 788] AH00418: Parent: Created child process 7064
+[Tue Feb 13 02:04:51.555729 2024] [mpm_winnt:notice] [pid 7064:tid 804] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 13 12:34:15.420296 2024] [core:warn] [pid 9788:tid 732] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 13 12:34:15.424295 2024] [mpm_winnt:notice] [pid 9788:tid 732] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Feb 13 12:34:15.424295 2024] [mpm_winnt:notice] [pid 9788:tid 732] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Feb 13 12:34:15.424295 2024] [core:notice] [pid 9788:tid 732] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Tue Feb 13 12:34:15.432297 2024] [mpm_winnt:notice] [pid 9788:tid 732] AH00418: Parent: Created child process 6328
+[Tue Feb 13 12:34:16.487297 2024] [mpm_winnt:notice] [pid 6328:tid 808] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 14 11:14:05.093187 2024] [core:warn] [pid 6952:tid 608] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 14 11:14:05.098185 2024] [mpm_winnt:notice] [pid 6952:tid 608] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Feb 14 11:14:05.098185 2024] [mpm_winnt:notice] [pid 6952:tid 608] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Feb 14 11:14:05.098185 2024] [core:notice] [pid 6952:tid 608] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Wed Feb 14 11:14:05.106188 2024] [mpm_winnt:notice] [pid 6952:tid 608] AH00418: Parent: Created child process 8264
+[Wed Feb 14 11:14:06.167187 2024] [mpm_winnt:notice] [pid 8264:tid 812] AH00354: Child: Starting 64 worker threads.
+[Wed Feb 14 18:23:48.429769 2024] [mpm_winnt:crit] [pid 8264:tid 812] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 14 18:23:48.429769 2024] [mpm_winnt:warn] [pid 8264:tid 3988] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Feb 14 18:23:48.429769 2024] [mpm_winnt:warn] [pid 8264:tid 512] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Feb 14 18:26:49.582473 2024] [core:warn] [pid 12124:tid 732] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 14 18:26:49.631475 2024] [mpm_winnt:notice] [pid 12124:tid 732] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Feb 14 18:26:49.631475 2024] [mpm_winnt:notice] [pid 12124:tid 732] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Feb 14 18:26:49.631475 2024] [core:notice] [pid 12124:tid 732] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Wed Feb 14 18:26:49.642474 2024] [mpm_winnt:notice] [pid 12124:tid 732] AH00418: Parent: Created child process 4784
+[Wed Feb 14 18:26:52.601474 2024] [mpm_winnt:notice] [pid 4784:tid 812] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 15 01:46:42.767222 2024] [core:warn] [pid 19120:tid 508] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 15 01:46:42.773227 2024] [mpm_winnt:notice] [pid 19120:tid 508] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Feb 15 01:46:42.773227 2024] [mpm_winnt:notice] [pid 19120:tid 508] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Feb 15 01:46:42.773227 2024] [core:notice] [pid 19120:tid 508] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Thu Feb 15 01:46:42.784225 2024] [mpm_winnt:notice] [pid 19120:tid 508] AH00418: Parent: Created child process 9648
+[Thu Feb 15 01:46:44.553222 2024] [mpm_winnt:notice] [pid 9648:tid 804] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 15 13:12:12.366553 2024] [core:warn] [pid 17288:tid 748] AH00098: pid file C:/Users/searc/AppData/Roaming/Local/run/yjklUau_W/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 15 13:12:12.370551 2024] [mpm_winnt:notice] [pid 17288:tid 748] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Feb 15 13:12:12.370551 2024] [mpm_winnt:notice] [pid 17288:tid 748] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Feb 15 13:12:12.370551 2024] [core:notice] [pid 17288:tid 748] AH00094: Command line: 'C:\\Users\\searc\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/searc/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\searc\\AppData\\Roaming\\Local\\run\\yjklUau_W\\conf\\apache\\apache2.conf'
+[Thu Feb 15 13:12:12.378554 2024] [mpm_winnt:notice] [pid 17288:tid 748] AH00418: Parent: Created child process 2164
+[Thu Feb 15 13:12:13.449552 2024] [mpm_winnt:notice] [pid 2164:tid 800] AH00354: Child: Starting 64 worker threads.

@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"f2d6265d","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"mailto:planty.drinks@gmail.com","afterSubmitCcEmail":"searching.murphy@gmail.com","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Soumission du formulaire","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Veuillez remplir le captcha ci-dessus.","confirmationUrl":""}, '.uagb-block-f2d6265d', 119 );
+});
+ });

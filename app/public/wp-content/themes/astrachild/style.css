@@ -1,0 +1,525 @@
+/*
+Theme Name: Astra theme enfant
+Description: thème enfant d'Astra
+Author: Leroyer Thomas 
+Author URI: https://www.planty.searching-murphy.com/
+Template: Astra
+Version:  4.6.5
+*//* Ajout de styles pour le header */
+
+.site-header-section>div:last-child {
+  margin-right: -95px;
+}
+.site-header-section>div:first-child {
+  margin-left: 0px;
+}
+
+@media screen and (min-width: 921px) and (max-width: 1200px) {
+  .ast-desktop .ast-primary-header-bar.main-header-bar,
+  .ast-header-break-point #masthead .ast-primary-header-bar.main-header-bar {
+      
+      margin-right: 80px; /* Ajustez ce pourcentage en fonction de votre mise en page */
+  }
+}
+@media screen and (min-width: 1201px) and (max-width: 1580px) {
+  .ast-desktop .ast-primary-header-bar.main-header-bar,
+  .ast-header-break-point #masthead .ast-primary-header-bar.main-header-bar
+  {
+   margin-right: auto;
+    }
+
+    .site-header-section>div:last-child {
+      margin-right: -38px;
+    }
+}
+
+/*titre boisson rafraichissante*/
+
+@media screen and (min-width: 767px) {
+  /* Conteneur principal */
+  #titre1 {
+      display: flex;
+      justify-content: center; /* Alignement horizontal au centre */
+      flex-wrap: wrap; /* Permettre le retour à la ligne si nécessaire */
+  }
+
+/* Élément "BOISSON" */
+#boisson {
+  font-size: 30px !important;
+  line-height: 1.2 !important;
+  margin: 0 10px 10px 210px !important; /* Déplacer vers la gauche */
+}
+
+  /* Élément "ÉNERGISANTE" */
+  #nrj {
+      font-size: 30px !important;
+      line-height: 1.2 !important;
+      margin: -65px 10px 10px 560px !important; /* Espacement entre les éléments */
+      overflow-x: hidden!important; /* Ignorer le dépassement à droite */
+  }
+
+  /* Élément "100%" */
+  #centpourcent {
+      font-size: 30px !important;
+      line-height: 1.2 !important;
+      margin: 0 10px 10px 250px !important; /* Espacement entre les éléments */
+  }
+
+  /* Élément "NATURELLE" */
+  #naturelle {
+      font-size: 30px !important;
+      line-height: 1.2 !important;
+      margin: -65px 10px 10px 480px  !important; /* Espacement entre les éléments */
+      overflow-x: hidden !important; /* Ignorer le dépassement à droite */
+  }
+}
+
+
+/* Titre "Boisson Rafraîchissante" pour les écrans entre 1264px et 767px */
+@media screen and (min-width: 767px) and (max-width: 1264px) {
+  /* Conteneur principal */
+  #titre1 {
+      display: flex;
+      justify-content: center; /* Alignement horizontal au centre */
+      flex-wrap: wrap; /* Permettre le retour à la ligne si nécessaire */
+      margin: 130px; /* Centrer le titre */
+      max-width: 80%; /* Limiter la largeur du conteneur */
+  }
+
+  /* Éléments du titre */
+  #boisson, #nrj, #centpourcent, #naturelle {
+      font-size: 30px !important;
+      line-height: 1.2 !important;
+      margin: 0 10px 10px 0 !important; /* Espacement entre les éléments */
+  }
+}
+
+/*logo planty pour ecran large*/
+
+#aile-droite img {
+  transform: scale(4) translateX(-77%);
+  position: relative; 
+  z-index: 0 !important; /* Met l'image derrière l'élément avec l'ID moke */
+  bottom: 8px;
+}
+
+#aile-gauche img {
+  transform: scale(4) translateX(85%);
+  bottom: 8px;
+  position: relative;
+  z-index:1;
+}
+#moke img {
+  position: relative;
+  transform: scale(2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+}
+#grosbloc1 {
+  position: relative;
+  z-index: 1; 
+}
+
+@media screen and (min-width: 320px) and (max-width: 766px) {
+
+  .wp-image-44,
+  .wp-image-726,
+  .wp-image-131 {
+    width: 100%; /* Ajuste la largeur à 100% pour qu'elle s'adapte à la largeur de l'écran */
+    max-width: 100%; /* Assure que l'image ne dépasse pas la largeur de l'écran */
+}
+
+  #boisson {
+    font-size:21px !important; /* Régle la taille de la police en conséquence */
+    /* Autres styles que vous souhaitez appliquer à l'élément h2 */
+  }
+  #centpourcent{
+    font-size:25px !important; /* Régle la taille de la police en conséquence */
+    /* Autres styles que vous souhaitez appliquer à l'élément h2 */
+  }
+  
+  #aile-droite img {
+    transform: scale(2) translateX(35px) translateY(-85px); /* Réduire la taille de l'aile droite, la déplacer vers la droite et la faire remonter */
+    position: relative;
+    z-index: 0 !important;
+    
+  }
+
+  #aile-gauche img {
+    transform: scale(2) translateX(-20px) translateY(85px); /* Réduire la taille de l'aile gauche et la déplacer vers la gauche */
+    position: relative;
+    z-index: 1;
+  }
+  #moke img {
+    width: 200px; /* Réduire la taille de moke à 200px */
+    height: auto; /* Pour maintenir le ratio d'aspect */
+    display: block; /* Pour que les marges automatiques fonctionnent */
+    margin-left: auto; /* Centrer l'image sur le côté gauche */
+    margin-right: auto; /* Centrer l'image sur le côté droit */
+    right:-40px;
+}
+
+
+}
+@media screen and (min-width: 767px) and (max-width: 1200px) {
+ 
+ #aile-droite img {
+   /* transform: scale(2.5) translateX(-100px) translateY(0px)!important;*/
+    left: -165px;
+    transform: none;
+    position: relative;
+    width: 250px !important ;
+    position: absolute;
+    z-index: 0 !important;
+    bottom: -100px;
+    
+  }
+ 
+  #aile-gauche img {
+    right: -188px;
+    transform: none;
+    position: relative;
+    width: 250px !important ;
+    position: absolute;
+    z-index: 0 !important;
+    bottom: -100px;
+  }
+
+  #moke img {
+    width: 100% !important; 
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+  }
+
+  #petaledroite , #petalegauche  {
+   width:50%;
+  }
+
+}
+@media screen and (min-width: 1201px) and (max-width: 1426px) {
+  #aile-droite img {
+    /* transform: scale(2.5) translateX(-100px) translateY(0px)!important;*/
+     left: -220px;
+     transform: none;
+     position: relative;
+     width: 300px !important ;
+     position: absolute;
+     z-index: 0 !important;
+     bottom: -130px;
+     
+   }
+  
+   #aile-gauche img {
+     right: -250px;
+     transform: none;
+     position: relative;
+     width: 300px !important ;
+     position: absolute;
+     z-index: 0 !important;
+     bottom: -130px;
+   }
+ 
+   #moke img {
+     width: 400px !important; 
+     position: relative;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     z-index: 2;
+   }
+ 
+   #petaledroite , #petalegauche  {
+    width:50%;
+   }
+   
+}
+
+/* hombre sur le bord de la boite */
+
+#grosbloc1 .uagb-container__shape-fill {
+  stroke: #cdbeb181;
+  /* Couleur de la bordure grise transparente */
+  stroke-width: 15px;
+  /* Largeur de la bordure */
+  stroke-dasharray: 1520;
+  /* Longueur du trait */
+  stroke-dashoffset: 1835;
+  /* Décalage pour masquer la bordure */
+}
+
+
+
+ /*petites feuilles page nous rencontrer*/
+.uag-image-124 { transform: translate(200px, 50px) scale(1.5); /* Rotation de -70 degrés, déplacement de 200px vers la droite et 40px vers le bas, et mise à l'échelle de 1,5 fois */ }
+
+
+#formulaire1 {
+  position: relative !important; /* Assurez-vous que le positionnement est relatif */
+  z-index: 3 !important; /* Mettez le formulaire au-dessus de l'élément #feuillemeet */
+}
+
+#feuillemeet {
+  position: relative !important; /* Assurez-vous que le positionnement est relatif */
+  z-index: 2 !important; /* Placez l'élément #feuillemeet en dessous du formulaire */
+  top: -270px !important;
+  right:20px ;
+}
+/* Largeur de contenaire nous rencontrer */
+.wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-57127851 > .uagb-container-inner-blocks-wrap {
+  
+  max-width: var(--inner-content-custom-width);
+  width: 100%;
+}
+
+#nouscontacter {
+  position: relative !important;
+  z-index: 5 !important; /* Placez "Nous contacter" au-dessus de la feuille */
+}
+
+.uagb-forms-success-message {
+  position: relative !important;
+  left: 70px !important;
+}
+
+/* Page commander */
+
+/* titre votre commande */
+
+@media (min-width: 320px) and (max-width: 766px) {
+  #votcom p {
+    margin-right: 20px!important; /* Déplacer le texte de 20px vers la droite */
+    text-align: center !important; /* Centrer le texte horizontalement */
+    width: 320px !important; /* Réduire la largeur du conteneur */
+    display: flex !important;
+    overflow: hidden !important; /* Cacher le dépassement */
+    justify-content: center !important; /* Centrer horizontalement */
+  } 
+
+
+  #votcom {
+    display: flex !important;
+    justify-content: center !important; /* Centrer horizontalement */
+    width: 320px !important; /* Réduire la largeur du conteneur */
+    overflow: hidden !important; /* Cacher le dépassement */
+  }
+  
+}
+
+.ff-el-group.ff-el-section-break hr {
+  display: none; /* Pour cacher la ligne de séparation */
+}
+
+.ff-el-group.ff-el-section-break h3 {
+  font-family: Syne !important;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white; /* Couleur du texte en blanc */
+  text-decoration: none; /* Pas de soulignement */
+}
+/* Appliquer la police Syne au titre */
+.ff-el-group.ff-el-section-break .ff-el-section-title {
+  font-family: 'Syne', sans-serif;
+  font-weight: 700;
+}
+
+/* Changer la couleur du texte en blanc */
+.ff-el-group.ff-el-section-break .ff-el-section-title {
+  color: rgb(255, 255, 255);
+}
+
+
+/* page commander  */
+
+/* Boutons input le la page commander  */
+
+.quantity {
+  padding: 10px 12px !important;
+  border: none !important;
+  border-radius: 7px !important;
+  font-size: 16px !important;
+  width: 50% !important;
+  box-sizing: border-box !important;
+  vertical-align: top;
+  height: 200%;
+  margin: 0 auto; /* Marges automatiques pour centrer */
+  display: flex;
+  align-items: center;
+}
+
+.quantity::-webkit-outer-spin-button,
+.quantity::-webkit-inner-spin-button {
+  -webkit-appearance:square-button ;
+  margin: 0;
+}
+
+
+/* Fluentforms */
+@media (min-width: 1201px)  {
+  .ff-el-form-control[type="text"],
+  .ff-el-form-control[type="email"] {
+      border-radius: 7px !important; /* Coins arrondis de 20px */
+      height:80px !important ;
+      width: 420px;
+      }
+  }
+
+ @media (min-width: 320px) and (max-width: 700px) {
+  .ff-el-form-control[type="text"],
+  .ff-el-form-control[type="email"] {
+    border-radius: 7px !important; /* Coins arrondis de 7px */
+    height: 80px !important;
+    width: 100% !important; /* Largeur de 100% */
+    margin-left: auto; /* Centre le formulaire horizontalement */
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 701px) and (max-width: 1200px){
+  .ff-el-form-control[type="text"],
+  .ff-el-form-control[type="email"] {
+    border-radius: 7px !important; /* Coins arrondis de 20px */
+    height: 80px !important;
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .ff-t-container{
+    width:100%;
+    flex-direction:column;
+
+  }
+}
+
+#separateur {
+  z-index: 2 !important ;
+  bottom: -275px !important;
+  transform: rotate(90deg);
+  }
+
+/* Masquer le trait lorsque le message de succès est ciblé dans l'URL */
+#fluentform_6_success:target + #separator {
+  display: none ! important;
+}
+
+
+
+@media (max-width: 1359px ) {
+  #separateur {
+    display: none !important; /* Faire disparaître le séparateur */
+  }
+}
+
+
+@media only screen and (max-width: 976px) {
+  #commander {
+      margin-left: -20px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #commander {
+      margin-left: -20px;
+  }
+}
+
+/* Couleur labels */
+
+.ff-el-input--label.asterisk-right label {
+  color: white !important;
+}
+.ff-el-input--label label {
+  color: white !important;
+}
+
+#formulaire1 .ff-el-input--label label {
+  color: black !important; /* Couleur du texte noir */
+}
+
+
+
+
+/* boutons */
+
+/* boutons commander page commander */
+.ff-btn-submit {
+  width: 198px;
+  height: 55px;
+  text-align: center;
+  padding: 0 5px;
+  margin-top: 40px
+  
+}
+
+/* boutons commander page planty home */
+
+.wp-block-button__link {
+  width: 198px;
+  height: 55px;
+  text-align: center;
+  line-height: 55px; /* Pour centrer verticalement le texte */
+  
+}
+
+.uagb-forms-main-submit-button-wrap .uagb-forms-main-submit-button {
+  width: 198px;
+  height: 55px;
+  text-align: center;
+  line-height: 55px; /* Pour centrer verticalement le texte */
+  padding: 0 5px; /* Ajoute 5px de padding à gauche et à droite du texte */
+  margin-top: 10px; /* Ajoute 10px d'espace en haut du bouton */
+  background-color: rgba(224, 185, 180, 1); /* Couleur de fond */
+  border: none; /* Supprimer la bordure */
+  color: #ffffff; /* Couleur du texte */
+  border-radius: 7px; /* Arrondir les coins */
+  cursor: pointer; /* Curseur de la souris */
+}
+
+.ast-custom-button {
+  height: 80px; /* Définir la hauteur du bouton */
+  cursor: pointer; /* Curseur de la souris */
+  display: inline-block; /* Afficher en tant que bloc en ligne */
+  text-align: center; /* Centrer le texte horizontalement */
+}
+.wp-block-uagb-container.uagb-is-root-container.alignfull.uagb-block-57127851 > .uagb-container-inner-blocks-wrap {
+  --inner-content-custom-width: min( 90%, 420px);
+  max-width: var(--inner-content-custom-width);
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+#sepmilieu {
+  transform: rotate(90deg) !important;
+  top: 260px;
+}
+/* Media query pour les écrans ayant une largeur maximale de 1390px */
+@media screen and (max-width: 1390px) {
+  /* L'élément sepmilieu sera invisible */
+  #sepmilieu {
+      display: none;
+  }
+
+#choix1 {
+  position: relative;
+  }
+
+@media screen and (min-width: 300px) and (max-width: 802px) {
+  /* Déplacer l'élément de 20 pixels vers la gauche et ajuster la taille de la police */
+  #titrecom {
+      margin-left: -80px;
+      font-size: 20px !important; /* Taille de la police de 10 pixels avec priorité */
+  }
+}
+}

@@ -1,0 +1,368 @@
+[2024-02-15 15:38:23][notice]Start restoring themes.
+[2024-02-15 15:38:23][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip
+[2024-02-15 15:38:23][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip succeeded.
+[2024-02-15 15:38:23][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_themes.zip index:0
+[2024-02-15 15:38:28][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_themes.zip index:0 finished.
+[2024-02-15 15:38:28][notice]End restore themes.
+[2024-02-15 15:38:31][notice]Start restoring themes.
+[2024-02-15 15:38:31][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_themes.zip index:1000
+[2024-02-15 15:38:31][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_themes.zip index:1000 finished.
+[2024-02-15 15:38:31][notice]End restore themes.
+[2024-02-15 15:38:33][notice]Start restoring plugin.
+[2024-02-15 15:38:33][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip
+[2024-02-15 15:38:34][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip succeeded.
+[2024-02-15 15:38:34][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:0
+[2024-02-15 15:38:36][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:0 finished.
+[2024-02-15 15:38:36][notice]End restore plugin.
+[2024-02-15 15:38:38][notice]Start restoring plugin.
+[2024-02-15 15:38:38][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:1000
+[2024-02-15 15:38:41][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:1000 finished.
+[2024-02-15 15:38:41][notice]End restore plugin.
+[2024-02-15 15:38:44][notice]Start restoring plugin.
+[2024-02-15 15:38:44][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:2000
+[2024-02-15 15:38:48][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:2000 finished.
+[2024-02-15 15:38:48][notice]End restore plugin.
+[2024-02-15 15:38:51][notice]Start restoring plugin.
+[2024-02-15 15:38:51][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:3000
+[2024-02-15 15:38:52][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_plugin.zip index:3000 finished.
+[2024-02-15 15:38:52][notice]End restore plugin.
+[2024-02-15 15:38:54][notice]Start restoring wp-content.
+[2024-02-15 15:38:54][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip
+[2024-02-15 15:38:54][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip succeeded.
+[2024-02-15 15:38:54][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_content.zip index:0
+[2024-02-15 15:38:54][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_content.zip index:0 finished.
+[2024-02-15 15:38:54][notice]End restore wp-content.
+[2024-02-15 15:38:57][notice]Start restoring upload.
+[2024-02-15 15:38:57][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip
+[2024-02-15 15:38:57][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip succeeded.
+[2024-02-15 15:38:57][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_uploads.zip index:0
+[2024-02-15 15:38:57][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_uploads.zip index:0 finished.
+[2024-02-15 15:38:57][notice]End restore upload.
+[2024-02-15 15:38:59][notice]Start restoring wp-core.
+[2024-02-15 15:38:59][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip
+[2024-02-15 15:38:59][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip succeeded.
+[2024-02-15 15:38:59][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_core.zip
+[2024-02-15 15:39:08][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_core.zip succeeded.
+[2024-02-15 15:39:08][notice]End restore wp-core.
+[2024-02-15 15:39:12][notice]Start restoring databases.
+[2024-02-15 15:39:12][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip
+[2024-02-15 15:39:12][notice]Extracting file:localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_all.zip finished.
+[2024-02-15 15:39:12][notice]Extracting file:C:\Users\searc\Local Sites\planty\app\public/wp-content\wpvividbackups\localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_db.zip
+[2024-02-15 15:39:12][notice]Extracting file:C:\Users\searc\Local Sites\planty\app\public/wp-content\wpvividbackups\localhost_wpvivid-65ce1629e663c_2024-02-15-14-48_backup_db.zip finished.
+[2024-02-15 15:39:12][notice]End restore databases.
+[2024-02-15 15:39:15][notice]Start restoring databases.
+[2024-02-15 15:39:15][notice]Start restoring sql file offset:0
+[2024-02-15 15:39:15][notice]The test to drop table succeeds.
+[2024-02-15 15:39:15][notice]Drop table if exist tmp5c422c_ff_scheduled_actions
+[2024-02-15 15:39:15][notice]Creating table tmp5c422c_ff_scheduled_actions
+[2024-02-15 15:39:15][notice]Drop table if exist tmp5c422c_fluentform_entry_details
+[2024-02-15 15:39:15][notice]Creating table tmp5c422c_fluentform_entry_details
+[2024-02-15 15:39:15][notice]Drop table if exist tmp5c422c_fluentform_form_analytics
+[2024-02-15 15:39:15][notice]Creating table tmp5c422c_fluentform_form_analytics
+[2024-02-15 15:39:15][notice]Drop table if exist tmp5c422c_fluentform_form_meta
+[2024-02-15 15:39:15][notice]Creating table tmp5c422c_fluentform_form_meta
+[2024-02-15 15:39:15][notice]Drop table if exist tmp5c422c_fluentform_logs
+[2024-02-15 15:39:15][notice]Creating table tmp5c422c_fluentform_logs
+[2024-02-15 15:39:15][notice]Drop table if exist tmp5c422c_fluentform_submission_meta
+[2024-02-15 15:39:15][notice]Creating table tmp5c422c_fluentform_submission_meta
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_category_lookup
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_category_lookup
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_reserved_stock
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_reserved_stock
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_shipping_zone_methods
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_shipping_zone_methods
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_shipping_zones
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_shipping_zones
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_actionscheduler_claims
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_actionscheduler_claims
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_actionscheduler_groups
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_actionscheduler_groups
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_e_events
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_e_events
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_frm_forms
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_frm_forms
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_links
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_links
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_term_relationships
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_term_relationships
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_product_attributes_lookup
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_product_attributes_lookup
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_product_download_directories
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_product_download_directories
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_rate_limits
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_rate_limits
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_tax_rate_classes
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_tax_rate_classes
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_wc_webhooks
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_wc_webhooks
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_attribute_taxonomies
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_attribute_taxonomies
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_log
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_log
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_order_items
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_order_items
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_payment_tokens
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_payment_tokens
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_woocommerce_sessions
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_woocommerce_sessions
+[2024-02-15 15:39:16][notice]Drop table if exist tmp5c422c_actionscheduler_logs
+[2024-02-15 15:39:16][notice]Creating table tmp5c422c_actionscheduler_logs
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_cc_payments
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_cc_payments
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_commentmeta
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_commentmeta
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_fluentform_forms
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_fluentform_forms
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_fluentform_submissions
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_fluentform_submissions
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_term_taxonomy
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_term_taxonomy
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_termmeta
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_termmeta
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_terms
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_terms
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_usermeta
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_usermeta
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_wc_customer_lookup
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_wc_customer_lookup
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_wc_download_log
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_wc_download_log
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_wc_order_coupon_lookup
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_wc_order_coupon_lookup
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_wc_order_operational_data
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_wc_order_operational_data
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_wc_order_tax_lookup
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_wc_order_tax_lookup
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_wc_orders_meta
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_wc_orders_meta
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_woocommerce_api_keys
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_woocommerce_api_keys
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_woocommerce_order_itemmeta
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_woocommerce_order_itemmeta
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_woocommerce_payment_tokenmeta
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_woocommerce_payment_tokenmeta
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_woocommerce_shipping_zone_locations
+[2024-02-15 15:39:17][notice]Creating table tmp5c422c_woocommerce_shipping_zone_locations
+[2024-02-15 15:39:17][notice]Drop table if exist tmp5c422c_woocommerce_tax_rate_locations
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_woocommerce_tax_rate_locations
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_cc_orders
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_cc_orders
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_frm_item_metas
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_frm_item_metas
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_users
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_users
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_wc_admin_notes
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_wc_admin_notes
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_wc_order_stats
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_wc_order_stats
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_frm_fields
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_frm_fields
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_wc_admin_note_actions
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_wc_admin_note_actions
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_wc_order_addresses
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_wc_order_addresses
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_wc_order_product_lookup
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_wc_order_product_lookup
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_woocommerce_downloadable_product_permissions
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_woocommerce_downloadable_product_permissions
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_woocommerce_tax_rates
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_woocommerce_tax_rates
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_comments
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_comments
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_frm_items
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_frm_items
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_wc_product_meta_lookup
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_wc_product_meta_lookup
+[2024-02-15 15:39:18][notice]Drop table if exist tmp5c422c_actionscheduler_actions
+[2024-02-15 15:39:18][notice]Creating table tmp5c422c_actionscheduler_actions
+[2024-02-15 15:39:19][notice]Drop table if exist tmp5c422c_wc_orders
+[2024-02-15 15:39:19][notice]Creating table tmp5c422c_wc_orders
+[2024-02-15 15:39:19][notice]Drop table if exist tmp5c422c_fsmpt_email_logs
+[2024-02-15 15:39:19][notice]Creating table tmp5c422c_fsmpt_email_logs
+[2024-02-15 15:39:19][notice]Drop table if exist tmp5c422c_postmeta
+[2024-02-15 15:39:19][notice]Creating table tmp5c422c_postmeta
+[2024-02-15 15:39:24][notice]Drop table if exist tmp5c422c_posts
+[2024-02-15 15:39:24][notice]Creating table tmp5c422c_posts
+[2024-02-15 15:39:26][notice]Reading sql file completed offset:5245554
+[2024-02-15 15:39:26][notice]End restore databases.
+[2024-02-15 15:39:28][notice]Start restoring databases.
+[2024-02-15 15:39:28][notice]Start restoring sql file offset:5245554
+[2024-02-15 15:39:28][notice]The test to drop table succeeds.
+[2024-02-15 15:39:29][notice]Reading sql file completed offset:10499946
+[2024-02-15 15:39:29][notice]End restore databases.
+[2024-02-15 15:39:31][notice]Start restoring databases.
+[2024-02-15 15:39:31][notice]Start restoring sql file offset:10499946
+[2024-02-15 15:39:32][notice]The test to drop table succeeds.
+[2024-02-15 15:39:32][notice]Reading sql file completed offset:15760113
+[2024-02-15 15:39:32][notice]End restore databases.
+[2024-02-15 15:39:35][notice]Start restoring databases.
+[2024-02-15 15:39:35][notice]Start restoring sql file offset:15760113
+[2024-02-15 15:39:35][notice]The test to drop table succeeds.
+[2024-02-15 15:39:35][notice]Reading sql file completed offset:21020050
+[2024-02-15 15:39:35][notice]End restore databases.
+[2024-02-15 15:39:38][notice]Start restoring databases.
+[2024-02-15 15:39:38][notice]Start restoring sql file offset:21020050
+[2024-02-15 15:39:38][notice]The test to drop table succeeds.
+[2024-02-15 15:39:38][notice]Drop table if exist tmp5c422c_options
+[2024-02-15 15:39:38][notice]Creating table tmp5c422c_options
+[2024-02-15 15:39:39][notice]Reading sql file completed offset:26296975
+[2024-02-15 15:39:39][notice]End restore databases.
+[2024-02-15 15:39:42][notice]Start restoring databases.
+[2024-02-15 15:39:42][notice]Start restoring sql file offset:26296975
+[2024-02-15 15:39:42][notice]The test to drop table succeeds.
+[2024-02-15 15:39:43][notice]Reading sql file completed offset:34758485
+[2024-02-15 15:39:43][notice]End restore databases.
+[2024-02-15 15:39:45][notice]Start restoring databases.
+[2024-02-15 15:39:45][notice]Start restoring sql file offset:34758485
+[2024-02-15 15:39:45][notice]The test to drop table succeeds.
+[2024-02-15 15:39:46][notice]Reading sql file completed offset:41554603
+[2024-02-15 15:39:46][notice]End restore databases.
+[2024-02-15 15:39:48][notice]Start restoring databases.
+[2024-02-15 15:39:48][notice]Start restoring sql file offset:41554603
+[2024-02-15 15:39:48][notice]The test to drop table succeeds.
+[2024-02-15 15:39:48][notice]Reading sql file completed offset:46911399
+[2024-02-15 15:39:48][notice]End restore databases.
+[2024-02-15 15:39:51][notice]Start restoring databases.
+[2024-02-15 15:39:51][notice]Start restoring sql file offset:46911399
+[2024-02-15 15:39:51][notice]The test to drop table succeeds.
+[2024-02-15 15:39:51][notice]UPDATE tmp5c422c_options SET option_value="http://localhost:10029" WHERE option_name="siteurl";
+[2024-02-15 15:39:51][notice]update query len:95
+[2024-02-15 15:39:51][notice]UPDATE tmp5c422c_options SET option_value="http://localhost:10029" WHERE option_name="home";
+[2024-02-15 15:39:51][notice]update query len:92
+[2024-02-15 15:39:51][notice]Restore db success
+[2024-02-15 15:39:51][notice]End restore databases.
+[2024-02-15 15:39:53][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-02-15 15:39:53][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2024-02-15 15:39:53][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2024-02-15 15:39:53][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2024-02-15 15:39:53][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2024-02-15 15:39:53][notice]DROP TABLE IF EXISTS wp_cc_orders
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_cc_payments
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_comments
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_e_events
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_ff_scheduled_actions
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_entry_details
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_form_analytics
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_form_meta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_forms
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_logs
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_submission_meta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fluentform_submissions
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_frm_fields
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_frm_forms
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_frm_item_metas
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_frm_items
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_fsmpt_email_logs
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_links
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_options
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_posts
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_terms
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_users
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_admin_note_actions
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_admin_notes
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_category_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_customer_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_download_log
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_order_addresses
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_order_coupon_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_order_operational_data
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_order_product_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_order_stats
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_order_tax_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_orders
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_orders_meta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_product_attributes_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_product_download_directories
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_product_meta_lookup
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_rate_limits
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_reserved_stock
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_tax_rate_classes
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_wc_webhooks
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_api_keys
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_attribute_taxonomies
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_downloadable_product_permissions
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_log
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_order_itemmeta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_order_items
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_payment_tokenmeta
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_payment_tokens
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_sessions
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_shipping_zone_locations
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_shipping_zone_methods
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_shipping_zones
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_tax_rate_locations
+[2024-02-15 15:39:54][notice]DROP TABLE IF EXISTS wp_woocommerce_tax_rates
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_actionscheduler_actions TO wp_actionscheduler_actions
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_actionscheduler_claims TO wp_actionscheduler_claims
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_actionscheduler_groups TO wp_actionscheduler_groups
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_actionscheduler_logs TO wp_actionscheduler_logs
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_cc_orders TO wp_cc_orders
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_cc_payments TO wp_cc_payments
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_commentmeta TO wp_commentmeta
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_comments TO wp_comments
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_e_events TO wp_e_events
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_ff_scheduled_actions TO wp_ff_scheduled_actions
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_entry_details TO wp_fluentform_entry_details
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_form_analytics TO wp_fluentform_form_analytics
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_form_meta TO wp_fluentform_form_meta
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_forms TO wp_fluentform_forms
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_logs TO wp_fluentform_logs
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_submission_meta TO wp_fluentform_submission_meta
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fluentform_submissions TO wp_fluentform_submissions
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_frm_fields TO wp_frm_fields
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_frm_forms TO wp_frm_forms
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_frm_item_metas TO wp_frm_item_metas
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_frm_items TO wp_frm_items
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_fsmpt_email_logs TO wp_fsmpt_email_logs
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_links TO wp_links
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_options TO wp_options
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_postmeta TO wp_postmeta
+[2024-02-15 15:39:54][notice]RENAME TABLE tmp5c422c_posts TO wp_posts
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_term_relationships TO wp_term_relationships
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_term_taxonomy TO wp_term_taxonomy
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_termmeta TO wp_termmeta
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_terms TO wp_terms
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_usermeta TO wp_usermeta
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_users TO wp_users
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_admin_note_actions TO wp_wc_admin_note_actions
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_admin_notes TO wp_wc_admin_notes
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_category_lookup TO wp_wc_category_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_customer_lookup TO wp_wc_customer_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_download_log TO wp_wc_download_log
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_order_addresses TO wp_wc_order_addresses
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_order_coupon_lookup TO wp_wc_order_coupon_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_order_operational_data TO wp_wc_order_operational_data
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_order_product_lookup TO wp_wc_order_product_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_order_stats TO wp_wc_order_stats
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_order_tax_lookup TO wp_wc_order_tax_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_orders TO wp_wc_orders
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_orders_meta TO wp_wc_orders_meta
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_product_attributes_lookup TO wp_wc_product_attributes_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_product_download_directories TO wp_wc_product_download_directories
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_product_meta_lookup TO wp_wc_product_meta_lookup
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_rate_limits TO wp_wc_rate_limits
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_reserved_stock TO wp_wc_reserved_stock
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_tax_rate_classes TO wp_wc_tax_rate_classes
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_wc_webhooks TO wp_wc_webhooks
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_api_keys TO wp_woocommerce_api_keys
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_attribute_taxonomies TO wp_woocommerce_attribute_taxonomies
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_downloadable_product_permissions TO wp_woocommerce_downloadable_product_permissions
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_log TO wp_woocommerce_log
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_order_itemmeta TO wp_woocommerce_order_itemmeta
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_order_items TO wp_woocommerce_order_items
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_payment_tokenmeta TO wp_woocommerce_payment_tokenmeta
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_payment_tokens TO wp_woocommerce_payment_tokens
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_sessions TO wp_woocommerce_sessions
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_shipping_zone_locations TO wp_woocommerce_shipping_zone_locations
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_shipping_zone_methods TO wp_woocommerce_shipping_zone_methods
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_shipping_zones TO wp_woocommerce_shipping_zones
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_tax_rate_locations TO wp_woocommerce_tax_rate_locations
+[2024-02-15 15:39:55][notice]RENAME TABLE tmp5c422c_woocommerce_tax_rates TO wp_woocommerce_tax_rates
+[2024-02-15 15:39:55][notice]Replacing table prefix succeeded.
+[2024-02-15 15:39:55][notice]Deleting temp files.
