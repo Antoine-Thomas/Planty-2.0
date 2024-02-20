@@ -120,6 +120,7 @@ Version:  4.6.5
 #grosbloc1 {
   position: relative;
   z-index: 1; 
+  overflow: hidden;
 }
 
 @media screen and (min-width: 320px) and (max-width: 766px) {
@@ -152,13 +153,18 @@ Version:  4.6.5
     position: relative;
     z-index: 1;
   }
+
+ 
+ 
   #moke img {
-    width: 200px; /* Réduire la taille de moke à 200px */
-    height: auto; /* Pour maintenir le ratio d'aspect */
-    display: block; /* Pour que les marges automatiques fonctionnent */
-    margin-left: auto; /* Centrer l'image sur le côté gauche */
-    margin-right: auto; /* Centrer l'image sur le côté droit */
-    right:-40px;
+    width: 200px !important; /* Réduire la taille de moke à 200px */
+    height: auto !important; /* Pour maintenir le ratio d'aspect */
+    display: block !important; /* Pour que les marges automatiques fonctionnent */
+    margin-left: auto !important; /* Centrer l'image sur le côté gauche */
+    margin-right:auto !important;
+    right: -40px !important; /* Déplacer l'image de 40px vers la gauche pour la centrer */
+    position: relative !important; /* Ajouter une position relative */
+    overflow: hidden !important; /* Masquer toute partie de l'image qui dépasse de la zone définie */
 }
 
 
