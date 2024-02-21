@@ -5,6 +5,9 @@ Author: Leroyer Thomas
 Author URI: https://www.planty.searching-murphy.com/
 Template: Astra
 Version:  4.6.5
+
+
+
 *//* Ajout de styles pour le header */
 
 .site-header-section>div:last-child {
@@ -18,7 +21,7 @@ Version:  4.6.5
   .ast-desktop .ast-primary-header-bar.main-header-bar,
   .ast-header-break-point #masthead .ast-primary-header-bar.main-header-bar {
       
-      margin-right: 80px; /* Ajustez ce pourcentage en fonction de votre mise en page */
+      margin-right: 75px; /* Ajustez ce pourcentage en fonction de votre mise en page */
   }
 }
 @media screen and (min-width: 1201px) and (max-width: 1580px) {
@@ -29,7 +32,7 @@ Version:  4.6.5
     }
 
     .site-header-section>div:last-child {
-      margin-right: -38px;
+      margin-right: -40px;
     }
 }
 
@@ -82,8 +85,9 @@ Version:  4.6.5
       display: flex;
       justify-content: center; /* Alignement horizontal au centre */
       flex-wrap: wrap; /* Permettre le retour à la ligne si nécessaire */
-      margin: 130px; /* Centrer le titre */
+      margin: 115px; /* Centrer le titre */
       max-width: 80%; /* Limiter la largeur du conteneur */
+     
   }
 
   /* Éléments du titre */
@@ -364,6 +368,15 @@ Version:  4.6.5
 .quantity::-webkit-inner-spin-button {
   -webkit-appearance:square-button ;
   margin: 0;
+} 
+
+
+/* Pour les appareils dont la largeur d'écran est comprise entre 320px et 945px */
+@media only screen and (max-width: 945px) and (min-width: 320px) {
+  .quantity::-webkit-outer-spin-button,
+  .quantity::-webkit-inner-spin-button {
+    display: block; /* Afficher les flèches de sélection de valeur */
+  }
 }
 
 
