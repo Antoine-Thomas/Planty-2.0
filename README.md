@@ -18,6 +18,9 @@
 ● Le lien Admin du menu est affiché  lorsque l’internaute est connecté sur WordPress.
   Un hook est utilisé pour le développement de cette fonctionnalité.
 
+## Plan Figma 
+[Plan Figma](https://www.figma.com/file/bcc8q196ZE5RKN1r50hRt8/Maquette-Planty-P6-Wordpress?type=design&node-id=2-239&mode=design&t=fEmbE2GRRW9Qi3qs-0)
+
 ## Installation
 
 Fournissez des instructions détaillées sur la façon d'installer votre projet. Par exemple :
@@ -27,7 +30,7 @@ Fournissez des instructions détaillées sur la façon d'installer votre projet.
 
 
 ## Captures d'écran
-![Logo du projet Plant](https://github.com/Antoine-Thomas/Planty-2.0/blob/main/app/public/wp-content/uploads/2024/01/Logo-1.png)
+![Logo du projet Planty](https://github.com/Antoine-Thomas/Planty-2.0/blob/main/app/public/wp-content/uploads/2024/01/Logo-1.png)
 
 ## Licence
 Le code source de ce projet est sous licence [Searching-Murphy](https://www.searching-murphy.com/).
