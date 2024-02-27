@@ -11,7 +11,7 @@
 ● une page d’accueil présentant l’activité de l’entreprise, les produits vendus ainsi que les avis client ; 
 ● une page “Nous rencontrer”, présentant l’équipe et comportant un formulaire de contact ; 
 ● une page “Précommande” permettant de créer une précommande. 
-  Maquettes Les maquettes de ces pages sont disponibles un fichier Figma.
+  Les maquettes de ces pages sont disponibles un fichier Figma.
   Les mentions légales n’étant pas rédigées à ce stade, le lien du pied de page peut mener vers une page vide ou vers la page d’accueil. 
   Administration du site 
 ● Le contenu des différentes pages (images et textes) sont modifiable sans connaissance de code. 
