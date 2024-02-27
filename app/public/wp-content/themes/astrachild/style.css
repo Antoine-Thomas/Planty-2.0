@@ -523,6 +523,21 @@ Version:  4.6.5
   transform: rotate(90deg) !important;
   top: 260px;
 }
+
+#fluentform_6_success::after {
+  content: "Planty vous remercie pour votre message.";
+  color: black; /* Changer la couleur selon vos préférences */
+  position: relative;
+  left: -120px;
+}
+
+
+#fluentform_6_success {
+  color: transparent;
+}
+
+
+
 /* Media query pour les écrans ayant une largeur maximale de 1390px */
 @media screen and (max-width: 1390px) {
   /* L'élément sepmilieu sera invisible */
