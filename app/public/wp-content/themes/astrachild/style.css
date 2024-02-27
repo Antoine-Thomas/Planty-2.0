@@ -531,6 +531,27 @@ Version:  4.6.5
   left: -120px;
 }
 
+@media screen and (min-width: 300px) and (max-width: 802px) {
+  #fluentform_6_success::after {
+    content: "Planty vous remercie .";
+    color: black; /* Changer la couleur selon vos préférences */
+    position: relative;
+    left: -10px;
+    bottom: 15px;
+    font-size: small;
+  } }
+
+@media screen and (min-width: 944px) and (max-width:1440px) {
+#fluentform_6_success::after {
+  content: "Planty vous remercie .";
+  color: black; /* Changer la couleur selon vos préférences */
+  position: relative;
+  left: -160px;
+ 
+  font-size: small;
+} }
+
+
 
 #fluentform_6_success {
   color: transparent;
